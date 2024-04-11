@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Eren</h1>
 <h3 align="center">Trying to Manage Products</h3>
 
-- 🌱 I’m currently learning **Jupyhter, Flutter**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **Product Management, Process Development**
 
